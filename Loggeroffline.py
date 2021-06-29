@@ -9,7 +9,7 @@ import board
 import busio
 import adafruit_vl53l0x
 import os
-from imutils.video import VideoStream
+#from imutils.video import VideoStream
 import signal
 
 Intervalo = 600
